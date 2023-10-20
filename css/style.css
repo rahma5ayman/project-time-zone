@@ -1,0 +1,172 @@
+body {
+    overflow-x:hidden ;
+}
+
+.watch {
+    position: relative; ; left:260px;
+    width: 300px;
+}
+
+.sec-watch {
+    background-color: rgb(198, 198, 198);
+height: 850px;
+}
+
+.text-1 {
+    position:relative; top:300px;
+    font-size:80px;
+    font-weight: bold;
+    color: rgb(0, 0, 105);
+}
+
+.shop {
+    color: white;
+    background-color: rgb(255, 0, 0);
+    width: 150px;
+    height: 60px;
+    border-radius: 7px;
+}
+
+
+.navbar .nav-item:hover{
+    background-color: rgb(255, 149, 149)
+}
+    
+.new-protect {
+display: flex;
+padding: 80px;
+}
+
+.head1{
+    position: relative;
+top: 70px;
+left: 90px;
+font-size: 50px;
+font-weight: bolder;
+color: black;
+}
+
+span {
+display: flex;
+justify-content: center;
+color: rgb(254, 43, 43);
+}
+
+.img-sec {
+position: relative;
+right: 300px;
+margin-right: -30pxpx;
+}
+
+.img3 {
+position: relative;
+left: 1290px;
+bottom: 700px;
+height: 330px;
+}
+
+.img4 {
+    position: relative; 
+    left: 689px;
+    bottom:340px ;
+    height: 335px;
+} 
+
+.poplar {
+    text-align: center;
+}
+
+.head2 {
+    font-size: 55px;
+font-weight: bolder;
+color: black;
+}
+
+.watches {
+display: flex;
+justify-content: space-between;
+
+}
+
+.text-thermo {
+text-align: center;
+color: rgb(33, 33, 33);
+font-size: 30px;
+font-weight: bolder;
+}
+
+.shop- {
+    color: white;
+    background-color: rgb(255, 0, 0);
+    width: 150px;
+    height: 60px;
+    border-radius: 7px;
+    width: 210px;
+
+}
+
+.sec-6 {
+position: relative;
+
+}
+
+.fas {
+    position: absolute;bottom: 220px; right: 370px;
+    font-size: 50px;
+    color: white;
+}
+
+.fas.fa-cube{
+    position: absolute;left: 50px;
+    color: #ffffff;
+}
+
+
+.fas.fa-lock-open {
+    position: absolute;left: 480px;
+}
+
+
+.ul {
+    list-style: none;
+    position: absolute;bottom: 220px;  top: 120px;
+    color: white;
+}
+
+.ul li {
+    font-size: 25px;
+    color: #ffffff;
+}
+
+
+.ul li span{
+    position: relative; right: 40px;
+    color: rgb(173, 173, 173);
+}
+
+.ul-2 {
+    list-style: none;
+    position: absolute;top: 120px; left: 440px;
+    font-size: 26px;
+    color: #ffffff;
+}
+
+
+.ul-2 li span {
+    position: relative; right: 40px;
+    color: rgb(173, 173, 173);
+}
+
+.ul-3 {
+    list-style: none;
+    position: absolute;top:120px; left: 850px;
+    font-size: 26px;
+    color: #ffffff;
+}
+
+
+.ul-3 li span {
+    position: relative; right: 40px;
+    color: rgb(173, 173, 173);
+}
+
